@@ -23,7 +23,7 @@ public class miniproject {
 
                     System.out.println("WOOHOO .. CORRECT NUMBER!!!");
 
-                    break;
+                    break;// this is break command
 
                 }
 
